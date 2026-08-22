@@ -54,8 +54,8 @@ Virtual Environment
 
 1. Installation
 # Clone the repository
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>.git
-cd <YOUR_REPO_NAME>
+git clone https://github.com/Rishiijainn/ai-agent-intern-test/tree/main
+cd <ai-agent-intern-test
 
 # Create and activate virtual environment
 python -m venv venv
